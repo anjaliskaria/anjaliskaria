@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I'm Anjali Skaria</h1>
-<h3 align="center">Data Scientist | Machine Learning Enthusiast</h3>
+<h3 align="center">Data Scientist | Machine Learning </h3>
 
 <p>🔭 I'm currently working on [project name]</p>
 <p>🌱 I'm currently learning [e.g. deep learning, MLOps, NLP]</p>
