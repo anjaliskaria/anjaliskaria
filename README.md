@@ -2,9 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Anjali Skaria</h1>
 <h3 align="center">Data Scientist | Machine Learning Enthusiast</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="anjaliskaria" />
-</p>
+
 🔭 I'm currently working on [project name]
 🌱 I'm currently learning [e.g. deep learning, MLOps, NLP]
 💬 Ask me about [e.g. Python, pandas, scikit-learn, TensorFlow]
