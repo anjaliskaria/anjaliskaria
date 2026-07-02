@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Anjali Skaria</h1>
 <h3 align="center">Data Scientist | Machine Learning Enthusiast</h3>
 
-🔭 I'm currently working on [project name]
-🌱 I'm currently learning [e.g. deep learning, MLOps, NLP]
-💬 Ask me about [e.g. Python, pandas, scikit-learn, TensorFlow]
-📫 How to reach me: [email or LinkedIn]
-⚡ Fun fact: [something about you]
+<p>🔭 I'm currently working on [project name]</p>
+<p>🌱 I'm currently learning [e.g. deep learning, MLOps, NLP]</p>
+<p>💬 Ask me about [e.g. Python, pandas, scikit-learn, TensorFlow]</p>
+<p>📫 How to reach me: [email or LinkedIn]</p>
+<p>⚡ Fun fact: [something about you]</p>
 
 
 # 💻 Tech Stack:
